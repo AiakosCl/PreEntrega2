@@ -1,0 +1,9 @@
+setup.py
+ModeloCliente/Clientes.py
+ModeloCliente/Compras.py
+ModeloCliente/Main.py
+ModeloCliente/__init__.py
+ModeloCliente.egg-info/PKG-INFO
+ModeloCliente.egg-info/SOURCES.txt
+ModeloCliente.egg-info/dependency_links.txt
+ModeloCliente.egg-info/top_level.txt
